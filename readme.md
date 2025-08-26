@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building, lea
 
 - [LinkedIn](https://www.linkedin.com/in/sudharsanbalu/)
 - [Twitter](https://twitter.com/sudharsanbalu)
-- Email: sudharsanbalu@example.com
+- [Email](sudharsanbalu13@gmail.com)
 
 ---
 
