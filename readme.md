@@ -1,4 +1,4 @@
-# Hi there, I'm Sudharsan Balu 👋
+# Hi there, I'm Sudharsan 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves building, learning, and collaborating on open-source projects.
 
